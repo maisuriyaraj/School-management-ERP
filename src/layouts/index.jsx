@@ -1,0 +1,10 @@
+import AdminLayout from './AdminLayout';
+import DefaultLayout from './DefaultLayout';
+import ParentLayout from './ParentLayout';
+import PrincipalLayout from './PrincipalLayout';
+import ReceptionLayout from './ReceptionLayout';
+import SecurityLayout from './SecurityLayout';
+import StudentLayout from './StudentLayout';
+import TeacherLayout from './TeacherLayout';
+import AuthLayout from './AuthLayout';
+export { DefaultLayout, TeacherLayout, StudentLayout, PrincipalLayout, AdminLayout, ParentLayout, ReceptionLayout, SecurityLayout ,AuthLayout };
